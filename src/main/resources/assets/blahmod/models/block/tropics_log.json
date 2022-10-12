@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/tropicslog",
+    "up": "blahmod:blocks/tropicslog",
+    "north": "blahmod:blocks/palmlog",
+    "east": "blahmod:blocks/palmlog",
+    "south": "blahmod:blocks/palmlog",
+    "west": "blahmod:blocks/palmlog",
+    "particle": "blahmod:blocks/tropicslog"
+  },
+  "render_type": "solid"
+}
