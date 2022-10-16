@@ -1,0 +1,10 @@
+{
+  "parent": "blahmod:custom/horizontal_glass_pane",
+  "textures": {
+    "all": "blahmod:blocks/reinforcedglass",
+    "particle": "blahmod:blocks/reinforcedglass",
+    "0": "blahmod:blocks/reinforced_glass_horizontal_pane_side",
+    "1": "blahmod:blocks/reinforcedglass"
+  },
+  "render_type": "solid"
+}

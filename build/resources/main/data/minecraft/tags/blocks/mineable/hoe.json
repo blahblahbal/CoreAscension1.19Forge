@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "blahmod:tropics_leaves"
+    "blahmod:tropics_leaves",
+    "blahmod:whitewood_leaves"
   ]
 }

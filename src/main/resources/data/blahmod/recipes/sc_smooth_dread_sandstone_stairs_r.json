@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "blahmod:smooth_dread_sandstone"
+  },
+  "result": "blahmod:smooth_dread_sandstone_stairs"
+}

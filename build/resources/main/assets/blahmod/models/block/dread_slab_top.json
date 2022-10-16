@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "blahmod:blocks/dread_planks",
+    "top": "blahmod:blocks/dread_planks",
+    "side": "blahmod:blocks/dread_planks"
+  },
+  "render_type": "solid"
+}

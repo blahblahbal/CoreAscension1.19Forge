@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:dread_sandstone"
+    },
+    "1": {
+      "item": "blahmod:dread_sandstone"
+    },
+    "2": {
+      "item": "blahmod:dread_sandstone"
+    },
+    "3": {
+      "item": "blahmod:dread_sandstone"
+    },
+    "4": {
+      "item": "blahmod:dread_sandstone"
+    },
+    "5": {
+      "item": "blahmod:dread_sandstone"
+    }
+  },
+  "result": {
+    "item": "blahmod:dread_sandstone_wall",
+    "count": 6
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/loam",
+    "up": "blahmod:blocks/loam",
+    "north": "blahmod:blocks/loam",
+    "east": "blahmod:blocks/loam",
+    "south": "blahmod:blocks/loam",
+    "west": "blahmod:blocks/loam",
+    "particle": "blahmod:blocks/loam"
+  },
+  "render_type": "solid"
+}

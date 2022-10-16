@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "blahmod:blocks/dreadsandstone_top",
+    "top": "blahmod:blocks/dreadsandstone_top",
+    "side": "blahmod:blocks/dreadsandstone_top"
+  },
+  "render_type": "solid"
+}

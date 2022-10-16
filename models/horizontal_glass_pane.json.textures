@@ -1,0 +1,25 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "horizontal_glass_pane_side",
+        "1": "glass"
+      },
+      "name": "default"
+    },
+    "frosted": {
+      "map": {
+        "0": "horizontal_frosted_glass_pane_side",
+        "1": "frosted_glass"
+      },
+      "name": "frosted"
+    },
+    "reinforced": {
+      "map": {
+        "0": "reinforced_glass_horizontal_pane_side",
+        "1": "reinforcedglass"
+      },
+      "name": "reinforced"
+    }
+  }
+}

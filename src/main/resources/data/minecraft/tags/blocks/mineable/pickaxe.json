@@ -1,6 +1,29 @@
 {
   "replace": false,
   "values": [
-    "blahmod:black_sandstone"
+    "blahmod:black_sandstone",
+    "blahmod:ruby_ore",
+    "blahmod:black_sandstone_slab",
+    "blahmod:ruby_block",
+    "blahmod:dread_sandstone",
+    "blahmod:chiseled_black_sandstone",
+    "blahmod:black_sandstone_stairs",
+    "blahmod:cut_black_sandstone",
+    "blahmod:smooth_black_sandstone",
+    "blahmod:black_sandstone_wall",
+    "blahmod:smooth_black_sandstone_slab",
+    "blahmod:smooth_black_sandstone_stairs",
+    "blahmod:reinforced_glass",
+    "blahmod:reinforced_glass_pane",
+    "blahmod:horizontal_reinforced_glass_pane",
+    "blahmod:dread_sandstone_slab",
+    "blahmod:dread_sandstone_stairs",
+    "blahmod:dread_sandstone_wall",
+    "blahmod:cut_dread_sandstone",
+    "blahmod:smooth_dread_sandstone",
+    "blahmod:chiseled_dread_sandstone",
+    "blahmod:smooth_dread_sandstone_slab",
+    "blahmod:smooth_dread_sandstone_stairs",
+    "blahmod:netherfrost"
   ]
 }

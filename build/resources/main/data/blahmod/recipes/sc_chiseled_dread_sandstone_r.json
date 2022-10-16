@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "blahmod:dread_sandstone"
+  },
+  "result": "blahmod:chiseled_dread_sandstone"
+}

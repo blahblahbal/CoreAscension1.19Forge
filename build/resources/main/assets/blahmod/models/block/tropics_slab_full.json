@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "blahmod:blocks/tropicsplanks",
+    "top": "blahmod:blocks/tropicsplanks",
+    "side": "blahmod:blocks/tropicsplanks"
+  },
+  "render_type": "solid"
+}

@@ -40,7 +40,7 @@
     "hasGravity": true,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "BUILDING_BLOCKS"
+      "value": "CUSTOM:BlocksTab"
     },
     "destroyTool": "shovel",
     "customDrop": {
@@ -50,7 +50,7 @@
     "useLootTableForDrops": false,
     "requiresCorrectTool": false,
     "enchantPowerBonus": 0.0,
-    "plantsGrowOn": false,
+    "plantsGrowOn": true,
     "canRedstoneConnect": false,
     "lightOpacity": 15,
     "material": {
@@ -63,7 +63,7 @@
     "emittedRedstonePower": {
       "fixedValue": 15.0
     },
-    "colorOnMap": "DEFAULT",
+    "colorOnMap": "BLACK",
     "creativePickItem": {
       "value": ""
     },

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "blahmod:block/whitewood_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "blahmod:block/whitewood_wood"
+    },
+    "axis=z": {
+      "model": "blahmod:block/whitewood_wood",
+      "x": 90
+    }
+  }
+}

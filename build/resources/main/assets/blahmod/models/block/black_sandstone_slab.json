@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "blahmod:blocks/blacksandstone_bottom",
+    "top": "blahmod:blocks/blacksandstone_top",
+    "side": "blahmod:blocks/blacksandstone"
+  },
+  "render_type": "solid"
+}

@@ -2,6 +2,7 @@
 package net.mcreator.blahmod.block;
 
 import net.minecraft.world.level.storage.loot.LootContext;
+import net.minecraft.world.level.material.MaterialColor;
 import net.minecraft.world.level.material.Material;
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraft.world.level.block.state.BlockBehaviour;
@@ -18,7 +19,8 @@ import java.util.Collections;
 
 public class BlackSandstoneBlock extends Block {
 	public BlackSandstoneBlock() {
-		super(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.STONE).strength(0.8f).requiresCorrectToolForDrops());
+		super(BlockBehaviour.Properties.of(Material.STONE, MaterialColor.COLOR_BLACK).sound(SoundType.STONE).strength(0.8f)
+				.requiresCorrectToolForDrops());
 	}
 
 	@Override

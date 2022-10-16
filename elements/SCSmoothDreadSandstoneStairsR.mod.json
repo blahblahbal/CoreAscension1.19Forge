@@ -1,0 +1,20 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:SmoothDreadSandstone"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:SmoothDreadSandstoneStairs"
+    },
+    "name": "sc_smooth_dread_sandstone_stairs_r",
+    "namespace": "mod"
+  }
+}

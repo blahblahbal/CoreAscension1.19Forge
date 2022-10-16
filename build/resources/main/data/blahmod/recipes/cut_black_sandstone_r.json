@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:black_sandstone"
+    },
+    "1": {
+      "item": "blahmod:black_sandstone"
+    },
+    "2": {
+      "item": "blahmod:black_sandstone"
+    },
+    "3": {
+      "item": "blahmod:black_sandstone"
+    }
+  },
+  "result": {
+    "item": "blahmod:cut_black_sandstone",
+    "count": 4
+  }
+}

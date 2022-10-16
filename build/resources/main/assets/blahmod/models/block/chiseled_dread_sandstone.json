@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/dreadsandstone_top",
+    "up": "blahmod:blocks/dreadsandstone_top",
+    "north": "blahmod:blocks/chiseleddreadsandstone",
+    "east": "blahmod:blocks/chiseleddreadsandstone",
+    "south": "blahmod:blocks/chiseleddreadsandstone",
+    "west": "blahmod:blocks/chiseleddreadsandstone",
+    "particle": "blahmod:blocks/dreadsandstone_top"
+  },
+  "render_type": "solid"
+}

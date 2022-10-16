@@ -26,7 +26,9 @@ import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.FriendlyByteBuf;
 
+import net.mcreator.blahmod.init.BlahmodModTabs;
 import net.mcreator.blahmod.init.BlahmodModItems;
+import net.mcreator.blahmod.init.BlahmodModFeatures;
 import net.mcreator.blahmod.init.BlahmodModBlocks;
 import net.mcreator.blahmod.init.BlahmodModBiomes;
 
@@ -44,11 +46,13 @@ public class BlahmodMod {
 	private static int messageID = 0;
 
 	public BlahmodMod() {
-
+		BlahmodModTabs.load();
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 
 		BlahmodModBlocks.REGISTRY.register(bus);
 		BlahmodModItems.REGISTRY.register(bus);
+
+		BlahmodModFeatures.REGISTRY.register(bus);
 
 		BlahmodModBiomes.REGISTRY.register(bus);
 	}

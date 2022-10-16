@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_orientable_trapdoor_top",
+  "textures": {
+    "texture": "blahmod:blocks/tropics_trapdoor",
+    "particle": "blahmod:blocks/tropics_trapdoor"
+  },
+  "render_type": "solid"
+}

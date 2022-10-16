@@ -1,0 +1,8 @@
+{
+  "parent": "blahmod:custom/seashell",
+  "textures": {
+    "all": "blahmod:blocks/seashell",
+    "particle": "blahmod:blocks/seashell"
+  },
+  "render_type": "solid"
+}

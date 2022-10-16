@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/nethersnow",
+    "up": "blahmod:blocks/nethersnow",
+    "north": "blahmod:blocks/nethersnow",
+    "east": "blahmod:blocks/nethersnow",
+    "south": "blahmod:blocks/nethersnow",
+    "west": "blahmod:blocks/nethersnow",
+    "particle": "blahmod:blocks/nethersnow"
+  },
+  "render_type": "solid"
+}

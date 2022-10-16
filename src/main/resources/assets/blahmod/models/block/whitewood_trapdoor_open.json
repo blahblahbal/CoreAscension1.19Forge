@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_orientable_trapdoor_open",
+  "textures": {
+    "texture": "blahmod:blocks/whitewood_trapdoor",
+    "particle": "blahmod:blocks/whitewood_trapdoor"
+  },
+  "render_type": "solid"
+}

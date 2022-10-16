@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "blahmod:tropics",
+  "features": "blahmod:conch_shell_gen",
+  "step": "surface_structures"
+}
