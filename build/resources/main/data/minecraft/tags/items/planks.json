@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "blahmod:tropics_planks",
+    "blahmod:dread_planks",
+    "blahmod:frost_planks",
+    "blahmod:whitewood_planks",
+    "blahmod:cedar_planks",
+    "blahmod:cactus_planks"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "blahmod:cedar_grove",
+  "features": "blahmod:cedar_tree_gen",
+  "step": "surface_structures"
+}

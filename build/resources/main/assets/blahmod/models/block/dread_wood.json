@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/dreadlog",
+    "up": "blahmod:blocks/dreadlog",
+    "north": "blahmod:blocks/dreadlog",
+    "east": "blahmod:blocks/dreadlog",
+    "south": "blahmod:blocks/dreadlog",
+    "west": "blahmod:blocks/dreadlog",
+    "particle": "blahmod:blocks/dreadlog"
+  },
+  "render_type": "solid"
+}

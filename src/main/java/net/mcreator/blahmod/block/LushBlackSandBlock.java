@@ -22,8 +22,8 @@ import net.minecraft.client.renderer.BiomeColors;
 
 import net.mcreator.blahmod.procedures.LushBlackSandProProcedure;
 import net.mcreator.blahmod.init.BlahmodModBlocks;
-import net.minecraft.world.level.block.state.properties.BlockStateProperties;
 import net.minecraftforge.common.PlantType;
+import net.minecraft.world.level.block.state.properties.BlockStateProperties;
 
 public class LushBlackSandBlock extends Block {
 	public LushBlackSandBlock() {
@@ -56,7 +56,6 @@ public class LushBlackSandBlock extends Block {
 			return false;
 		}
 	}
-
 
 	@Override
 	public void tick(BlockState blockstate, ServerLevel world, BlockPos pos, RandomSource random) {

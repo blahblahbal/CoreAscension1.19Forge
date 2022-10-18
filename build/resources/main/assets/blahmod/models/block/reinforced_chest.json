@@ -1,0 +1,9 @@
+{
+  "parent": "blahmod:custom/reinforced_chest",
+  "textures": {
+    "all": "blahmod:blocks/reinchest_bottom",
+    "particle": "blahmod:blocks/reinchest_bottom",
+    "0": "blahmod:blocks/reinforced_chest"
+  },
+  "render_type": "solid"
+}

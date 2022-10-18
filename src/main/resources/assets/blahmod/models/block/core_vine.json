@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "blahmod:blocks/core_vines",
+    "particle": "blahmod:blocks/core_vines"
+  },
+  "render_type": "solid"
+}

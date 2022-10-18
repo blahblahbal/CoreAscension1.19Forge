@@ -1,5 +1,5 @@
 Java Launcher: C:\Users\jabaw\OneDrive\Desktop\MINECRAFT MODDING\MCreator.EAP.2022.3.b41417.Windows.64bit\MCreatorEAP20223b41417\jdk\bin\java.exe
-Arguments: '--in-jar, C:\Users\jabaw\MCreatorWorkspaces\blahmod\build\libs\modid-1.0.jar, --out-jar, C:\Users\jabaw\MCreatorWorkspaces\blahmod\build\reobfJar\output.jar, --srg-in, C:\Users\jabaw\MCreatorWorkspaces\blahmod\build\createMcpToSrg\output.tsrg, --live'
+Arguments: '--in-jar, C:\Users\jabaw\MCreatorWorkspaces\blahmod\build\libs\CoreAscension-1.19.2-6.0.0.jar, --out-jar, C:\Users\jabaw\MCreatorWorkspaces\blahmod\build\reobfJar\output.jar, --srg-in, C:\Users\jabaw\MCreatorWorkspaces\blahmod\build\createMcpToSrg\output.tsrg, --live'
 Classpath:
  - C:\Users\jabaw\.mcreator\gradle\caches\forge_gradle\maven_downloader\net\md-5\SpecialSource\1.11.0\SpecialSource-1.11.0-shaded.jar
  - C:\Users\jabaw\MCreatorWorkspaces\blahmod\build\fg_cache\net\minecraftforge\forge\1.19.2-43.1.1_mapped_official_1.19.2\forge-1.19.2-43.1.1_mapped_official_1.19.2.jar

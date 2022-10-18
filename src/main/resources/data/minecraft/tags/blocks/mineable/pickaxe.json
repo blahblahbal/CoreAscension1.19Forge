@@ -24,6 +24,21 @@
     "blahmod:chiseled_dread_sandstone",
     "blahmod:smooth_dread_sandstone_slab",
     "blahmod:smooth_dread_sandstone_stairs",
-    "blahmod:netherfrost"
+    "blahmod:netherfrost",
+    "blahmod:corelight",
+    "blahmod:core_nylium",
+    "blahmod:nether_ice",
+    "blahmod:sulphur_ore_nc",
+    "blahmod:tadanite_ore",
+    "blahmod:salt",
+    "blahmod:perma_ice",
+    "blahmod:tadanite_block",
+    "blahmod:scoria",
+    "blahmod:lightly_charred_scoria",
+    "blahmod:charred_scoria",
+    "blahmod:dread_rock",
+    "blahmod:dread_rock_bricks",
+    "blahmod:blaze_brick",
+    "blahmod:borderless_glass"
   ]
 }

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/cedarlog",
+    "up": "blahmod:blocks/cedarlog",
+    "north": "blahmod:blocks/cedarlog",
+    "east": "blahmod:blocks/cedarlog",
+    "south": "blahmod:blocks/cedarlog",
+    "west": "blahmod:blocks/cedarlog",
+    "particle": "blahmod:blocks/cedarlog"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "blahmod:blocks/cedarplanks",
+    "particle": "blahmod:blocks/cedarplanks"
+  },
+  "render_type": "solid"
+}

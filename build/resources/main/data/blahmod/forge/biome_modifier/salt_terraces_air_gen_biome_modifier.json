@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "blahmod:salt_terraces",
+  "features": "blahmod:salt_terraces_air_gen",
+  "step": "underground_structures"
+}

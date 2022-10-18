@@ -18,8 +18,8 @@ import java.util.Collections;
 
 public class TropicsDoorBlock extends DoorBlock {
 	public TropicsDoorBlock() {
-		super(BlockBehaviour.Properties.of(Material.WOOD).sound(SoundType.WOOD).strength(2f).noOcclusion().isRedstoneConductor((bs, br, bp) -> false)
-				.dynamicShape());
+		super(BlockBehaviour.Properties.of(Material.WOOD).sound(SoundType.WOOD).strength(2f, 3f).noOcclusion()
+				.isRedstoneConductor((bs, br, bp) -> false).dynamicShape());
 	}
 
 	@Override

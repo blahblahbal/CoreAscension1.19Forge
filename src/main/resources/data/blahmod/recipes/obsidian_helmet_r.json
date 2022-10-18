@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:obsidian_fabric"
+    },
+    "1": {
+      "item": "blahmod:obsidian_fabric"
+    },
+    "2": {
+      "item": "blahmod:obsidian_fabric"
+    },
+    "3": {
+      "item": "blahmod:obsidian_fabric"
+    },
+    "4": {
+      "item": "blahmod:obsidian_construct"
+    },
+    "5": {
+      "item": "blahmod:obsidian_fabric"
+    }
+  },
+  "result": {
+    "item": "blahmod:obsidian_helmet",
+    "count": 1
+  }
+}

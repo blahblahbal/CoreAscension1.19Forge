@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:obsidian_fabric"
+    },
+    "1": {
+      "item": "blahmod:obsidian_construct"
+    },
+    "2": {
+      "item": "blahmod:obsidian_fabric"
+    },
+    "3": {
+      "item": "blahmod:obsidian_fabric"
+    },
+    "4": {
+      "item": "blahmod:obsidian_fabric"
+    },
+    "5": {
+      "item": "blahmod:obsidian_fabric"
+    },
+    "6": {
+      "item": "blahmod:obsidian_fabric"
+    },
+    "7": {
+      "item": "blahmod:obsidian_fabric"
+    },
+    "8": {
+      "item": "blahmod:obsidian_fabric"
+    }
+  },
+  "result": {
+    "item": "blahmod:obsidian_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:TropicsPlanks"
+      },
+      {
+        "value": "CUSTOM:DreadPlanks"
+      },
+      {
+        "value": "CUSTOM:WhitewoodPlanks"
+      },
+      {
+        "value": "CUSTOM:FrostPlanks"
+      },
+      {
+        "value": "CUSTOM:CactusPlanks"
+      },
+      {
+        "value": "CUSTOM:CedarPlanks"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "planks",
+    "namespace": "minecraft"
+  }
+}

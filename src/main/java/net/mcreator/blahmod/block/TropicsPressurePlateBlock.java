@@ -16,7 +16,7 @@ import java.util.Collections;
 
 public class TropicsPressurePlateBlock extends PressurePlateBlock {
 	public TropicsPressurePlateBlock() {
-		super(Sensitivity.EVERYTHING, BlockBehaviour.Properties.of(Material.WOOD).sound(SoundType.WOOD).strength(2f).noOcclusion()
+		super(Sensitivity.EVERYTHING, BlockBehaviour.Properties.of(Material.WOOD).sound(SoundType.WOOD).strength(0.5f).noOcclusion()
 				.isRedstoneConductor((bs, br, bp) -> false).dynamicShape());
 	}
 

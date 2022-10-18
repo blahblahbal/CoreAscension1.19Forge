@@ -1,0 +1,38 @@
+{
+  "cactus_planks_break": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "blahmod:cactus_planks_break",
+        "stream": false
+      }
+    ]
+  },
+  "cactus_planks_hit": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "blahmod:cactus_planks_hit",
+        "stream": false
+      }
+    ]
+  },
+  "cactus_planks_place": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "blahmod:cactus_planks_place",
+        "stream": false
+      }
+    ]
+  },
+  "cactus_planks_step": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "blahmod:cactus_planks_step",
+        "stream": false
+      }
+    ]
+  }
+}

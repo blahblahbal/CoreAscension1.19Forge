@@ -8,8 +8,8 @@
     "textureFront": "blacksand",
     "textureRight": "blacksand",
     "textureBack": "blacksand",
-    "renderType": 10,
-    "customModelName": "Normal",
+    "renderType": 14,
+    "customModelName": "Grass block",
     "rotationMode": 0,
     "enablePitch": false,
     "emissiveRendering": false,
@@ -20,7 +20,7 @@
     "isItemTinted": true,
     "hasTransparency": false,
     "connectedSides": false,
-    "transparencyType": "SOLID",
+    "transparencyType": "CUTOUT",
     "disableOffset": false,
     "boundingBoxes": [
       {

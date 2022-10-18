@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "blahmod:blocks/frostplanks",
+    "top": "blahmod:blocks/frostplanks",
+    "side": "blahmod:blocks/frostplanks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "blahmod:block/frost_wood_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "blahmod:block/frost_wood_log"
+    },
+    "axis=z": {
+      "model": "blahmod:block/frost_wood_log",
+      "x": 90
+    }
+  }
+}

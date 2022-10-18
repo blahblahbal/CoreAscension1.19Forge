@@ -1,6 +1,8 @@
 
 package net.mcreator.blahmod.block;
 
+import net.minecraft.world.phys.shapes.VoxelShape;
+import net.minecraft.world.phys.shapes.CollisionContext;
 import net.minecraft.world.level.storage.loot.LootContext;
 import net.minecraft.world.level.material.MaterialColor;
 import net.minecraft.world.level.material.Material;
@@ -48,6 +50,17 @@ public class ConchShellBlock extends Block implements SimpleWaterloggedBlock
 	@Override
 	public int getLightBlock(BlockState state, BlockGetter worldIn, BlockPos pos) {
 		return 0;
+	}
+
+	@Override
+	public VoxelShape getShape(BlockState state, BlockGetter world, BlockPos pos, CollisionContext context) {
+
+		return switch (state.getValue(FACING)) {
+			default -> box(5, 0, 1, 13, 9, 13);
+			case NORTH -> box(3, 0, 3, 11, 9, 15);
+			case EAST -> box(1, 0, 3, 13, 9, 11);
+			case WEST -> box(3, 0, 5, 15, 9, 13);
+		};
 	}
 
 	@Override

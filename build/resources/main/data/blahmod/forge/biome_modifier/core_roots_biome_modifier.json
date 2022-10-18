@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "blahmod:core_grove",
+  "features": "blahmod:core_roots",
+  "step": "vegetal_decoration"
+}

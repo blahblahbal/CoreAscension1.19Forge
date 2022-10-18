@@ -1,0 +1,6 @@
+{
+  "parent": "block/pressure_plate_down",
+  "textures": {
+    "texture": "blahmod:blocks/whitewood_planks"
+  }
+}

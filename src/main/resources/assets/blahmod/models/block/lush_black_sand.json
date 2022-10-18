@@ -7,5 +7,5 @@
     "overlay": "blahmod:blocks/grass_side_generic",
     "particle": "blahmod:blocks/blacksand"
   },
-  "render_type": "solid"
+  "render_type": "cutout"
 }

@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "blahmod:frost_wood_log",
+    "blahmod:stripped_frost_wood",
+    "blahmod:stripped_dread_log",
+    "blahmod:dread_log",
+    "blahmod:cedar_wood",
+    "blahmod:stripped_frost_log",
+    "blahmod:whitewood_wood",
+    "blahmod:tropics_log",
+    "blahmod:cedar_log",
+    "blahmod:stripped_whitewood_log",
+    "blahmod:stripped_whitewood_wood",
+    "blahmod:stripped_dread_wood",
+    "blahmod:stripped_tropics_log",
+    "blahmod:dread_wood",
+    "blahmod:whitewood_log",
+    "blahmod:tropics_wood",
+    "blahmod:stripped_tropics_wood",
+    "blahmod:stripped_cedar_wood",
+    "blahmod:frost_hyphae",
+    "blahmod:stripped_cedar_log"
+  ]
+}

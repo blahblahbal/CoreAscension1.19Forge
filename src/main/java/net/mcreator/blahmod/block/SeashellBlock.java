@@ -1,6 +1,8 @@
 
 package net.mcreator.blahmod.block;
 
+import net.minecraft.world.phys.shapes.VoxelShape;
+import net.minecraft.world.phys.shapes.CollisionContext;
 import net.minecraft.world.level.storage.loot.LootContext;
 import net.minecraft.world.level.material.MaterialColor;
 import net.minecraft.world.level.material.Material;
@@ -48,6 +50,17 @@ public class SeashellBlock extends Block implements SimpleWaterloggedBlock
 	@Override
 	public int getLightBlock(BlockState state, BlockGetter worldIn, BlockPos pos) {
 		return 0;
+	}
+
+	@Override
+	public VoxelShape getShape(BlockState state, BlockGetter world, BlockPos pos, CollisionContext context) {
+
+		return switch (state.getValue(FACING)) {
+			default -> box(3, 0, 3, 13, 2, 13);
+			case NORTH -> box(3, 0, 3, 13, 2, 13);
+			case EAST -> box(3, 0, 3, 13, 2, 13);
+			case WEST -> box(3, 0, 3, 13, 2, 13);
+		};
 	}
 
 	@Override

@@ -1,0 +1,75 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:TropicsLog"
+      },
+      {
+        "value": "CUSTOM:TropicsWood"
+      },
+      {
+        "value": "CUSTOM:DreadLog"
+      },
+      {
+        "value": "CUSTOM:WhitewoodLog"
+      },
+      {
+        "value": "CUSTOM:WhitewoodWood"
+      },
+      {
+        "value": "CUSTOM:StrippedTropicsWood"
+      },
+      {
+        "value": "CUSTOM:StrippedTropicsLog"
+      },
+      {
+        "value": "CUSTOM:StrippedDreadWood"
+      },
+      {
+        "value": "CUSTOM:StrippedDreadLog"
+      },
+      {
+        "value": "CUSTOM:StrippedWhitewoodLog"
+      },
+      {
+        "value": "CUSTOM:StrippedWhitewoodWood"
+      },
+      {
+        "value": "CUSTOM:CedarLog"
+      },
+      {
+        "value": "CUSTOM:CedarWood"
+      },
+      {
+        "value": "CUSTOM:StrippedCedarWood"
+      },
+      {
+        "value": "CUSTOM:StrippedCedarLog"
+      },
+      {
+        "value": "CUSTOM:DreadWood"
+      },
+      {
+        "value": "CUSTOM:FrostStem"
+      },
+      {
+        "value": "CUSTOM:StrippedFrostWood"
+      },
+      {
+        "value": "CUSTOM:StrippedFrostLog"
+      },
+      {
+        "value": "CUSTOM:FrostHyphae"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "logs",
+    "namespace": "minecraft"
+  }
+}

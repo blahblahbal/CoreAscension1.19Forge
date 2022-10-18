@@ -15,7 +15,7 @@ public class BlahmodModTabs {
 		TAB_BLOCKS_TAB = new CreativeModeTab("tabblocks_tab") {
 			@Override
 			public ItemStack makeIcon() {
-				return new ItemStack(BlahmodModBlocks.TROPICS_PLANKS.get());
+				return new ItemStack(BlahmodModBlocks.BLAZE_BRICK.get());
 			}
 
 			@Override

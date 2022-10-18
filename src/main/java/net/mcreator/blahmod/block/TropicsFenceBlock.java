@@ -16,7 +16,7 @@ import java.util.Collections;
 
 public class TropicsFenceBlock extends FenceBlock {
 	public TropicsFenceBlock() {
-		super(BlockBehaviour.Properties.of(Material.WOOD).sound(SoundType.WOOD).strength(2f).dynamicShape());
+		super(BlockBehaviour.Properties.of(Material.WOOD).sound(SoundType.WOOD).strength(2f, 3f).dynamicShape());
 	}
 
 	@Override

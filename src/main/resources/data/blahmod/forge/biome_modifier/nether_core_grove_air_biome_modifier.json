@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "blahmod:core_grove",
+  "features": "blahmod:nether_core_grove_air",
+  "step": "underground_ores"
+}

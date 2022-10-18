@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/frozen_mist",
+    "up": "blahmod:blocks/frozen_mist",
+    "north": "blahmod:blocks/frozen_mist",
+    "east": "blahmod:blocks/frozen_mist",
+    "south": "blahmod:blocks/frozen_mist",
+    "west": "blahmod:blocks/frozen_mist",
+    "particle": "blahmod:blocks/frozen_mist"
+  },
+  "render_type": "translucent"
+}

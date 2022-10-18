@@ -27,9 +27,16 @@ import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.FriendlyByteBuf;
 
 import net.mcreator.blahmod.init.BlahmodModTabs;
+import net.mcreator.blahmod.init.BlahmodModSounds;
+import net.mcreator.blahmod.init.BlahmodModPotions;
+import net.mcreator.blahmod.init.BlahmodModMobEffects;
+import net.mcreator.blahmod.init.BlahmodModMenus;
 import net.mcreator.blahmod.init.BlahmodModItems;
+import net.mcreator.blahmod.init.BlahmodModFluids;
+import net.mcreator.blahmod.init.BlahmodModFluidTypes;
 import net.mcreator.blahmod.init.BlahmodModFeatures;
 import net.mcreator.blahmod.init.BlahmodModBlocks;
+import net.mcreator.blahmod.init.BlahmodModBlockEntities;
 import net.mcreator.blahmod.init.BlahmodModBiomes;
 
 import java.util.function.Supplier;
@@ -48,12 +55,19 @@ public class BlahmodMod {
 	public BlahmodMod() {
 		BlahmodModTabs.load();
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
-
+		BlahmodModSounds.REGISTRY.register(bus);
 		BlahmodModBlocks.REGISTRY.register(bus);
 		BlahmodModItems.REGISTRY.register(bus);
 
+		BlahmodModBlockEntities.REGISTRY.register(bus);
 		BlahmodModFeatures.REGISTRY.register(bus);
+		BlahmodModFluids.REGISTRY.register(bus);
+		BlahmodModFluidTypes.REGISTRY.register(bus);
 
+		BlahmodModMobEffects.REGISTRY.register(bus);
+		BlahmodModPotions.REGISTRY.register(bus);
+
+		BlahmodModMenus.REGISTRY.register(bus);
 		BlahmodModBiomes.REGISTRY.register(bus);
 	}
 

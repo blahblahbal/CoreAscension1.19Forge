@@ -16,8 +16,8 @@ import java.util.Collections;
 
 public class TropicsButtonBlock extends WoodButtonBlock {
 	public TropicsButtonBlock() {
-		super(BlockBehaviour.Properties.of(Material.WOOD).sound(SoundType.WOOD).strength(2f).noOcclusion().isRedstoneConductor((bs, br, bp) -> false)
-				.dynamicShape());
+		super(BlockBehaviour.Properties.of(Material.WOOD).sound(SoundType.WOOD).strength(0.5f).noOcclusion()
+				.isRedstoneConductor((bs, br, bp) -> false).dynamicShape());
 	}
 
 	@Override

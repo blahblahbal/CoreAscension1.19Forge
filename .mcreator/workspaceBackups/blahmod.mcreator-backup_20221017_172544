@@ -1,0 +1,3688 @@
+{
+  "mod_elements": [
+    {
+      "name": "BlackSand",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "black_sand",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "TropicsLog",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics_log",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "TropicsPlanks",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics_planks",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "TropicsLeaves",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics_leaves",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "BlackSandstone",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_sandstone",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "Tropics",
+      "type": "biome",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "RubyOre",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_ore",
+      "path": "~/Gems"
+    },
+    {
+      "name": "Ruby",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby",
+      "path": "~/Gems"
+    },
+    {
+      "name": "RubyOreLT",
+      "type": "loottable",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_ore_lt",
+      "path": "~/Gems/GemOreLootTables"
+    },
+    {
+      "name": "BlocksTab",
+      "type": "tab",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blocks_tab"
+    },
+    {
+      "name": "ItemsTab",
+      "type": "tab",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "items_tab"
+    },
+    {
+      "name": "TropicsSlab",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics_slab",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "TropicsStairs",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics_stairs",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "TropicsFence",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics_fence",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "TropicsFenceGate",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics_fence_gate",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "TropicsWood",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics_wood",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "TropicsTree",
+      "type": "structure",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics_tree",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "TropicsDoor",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics_door",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "TropicsTrapdoor",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics_trapdoor",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "TropicsPressurePlate",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics_pressure_plate",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "TropicsButton",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics_button",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "TropicsPlanksR",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics_planks_r",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "TropicsPlanksR2",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics_planks_r_2",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "TropicsSlabR",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics_slab_r",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "TropicsStairsR",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics_stairs_r",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "TropicsFenceR",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics_fence_r",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "TropicsFenceGateR",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics_fence_gate_r",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "TropicsDoorR",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics_door_r",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "TropicsTrapdoorR",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics_trapdoor_r",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "TropicsWoodR",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics_wood_r",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "BlackSandstoneR",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_sandstone_r",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "BlackSandstoneSlab",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_sandstone_slab",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "BlackSandstoneSlabR",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_sandstone_slab_r",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "TheTool",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_tool",
+      "path": "~/Tools"
+    },
+    {
+      "name": "UltimateGauntlet",
+      "type": "item",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ultimate_gauntlet",
+      "path": "~/Tools"
+    },
+    {
+      "name": "TheToolUltimateGauntlet",
+      "type": "procedure",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_tool_ultimate_gauntlet",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Tools"
+    },
+    {
+      "name": "RubyBlock",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_block",
+      "path": "~/Gems"
+    },
+    {
+      "name": "DreadLog",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_log",
+      "path": "~/Biomes/Dread"
+    },
+    {
+      "name": "DreadPlanks",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_planks",
+      "path": "~/Biomes/Dread"
+    },
+    {
+      "name": "DreadSand",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_sand",
+      "path": "~/Biomes/Dread"
+    },
+    {
+      "name": "DreadSandstone",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_sandstone",
+      "path": "~/Biomes/Dread"
+    },
+    {
+      "name": "ChiseledBlackSandstone",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiseled_black_sandstone",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "BlackSandstoneStairs",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_sandstone_stairs",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "CutBlackSandstone",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_black_sandstone",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "SmoothBlackSandstone",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smooth_black_sandstone",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "TropicsPressurePlateR",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics_pressure_plate_r",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "TropicsButtonR",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics_button_r",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "TropicsDoorD",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics_door_d",
+      "path": "~/DecraftingCA/TropicsDecrafts"
+    },
+    {
+      "name": "TropicsTrapdoorD",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics_trapdoor_d",
+      "path": "~/DecraftingCA/TropicsDecrafts"
+    },
+    {
+      "name": "TropicsSlabD",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics_slab_d",
+      "path": "~/DecraftingCA/TropicsDecrafts"
+    },
+    {
+      "name": "TropicsStairsD",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics_stairs_d",
+      "path": "~/DecraftingCA/TropicsDecrafts"
+    },
+    {
+      "name": "TropicsLogD",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropics_log_d",
+      "path": "~/DecraftingCA/TropicsDecrafts"
+    },
+    {
+      "name": "ChiseledBlackSandstoneR",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiseled_black_sandstone_r",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "BlackSandstoneStairsR",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_sandstone_stairs_r",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "CutBlackSandstoneR",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_black_sandstone_r",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "SmoothBlackSandstoneR",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smooth_black_sandstone_r",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "SCCutBlackSandstoneR",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_cut_black_sandstone_r",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "SCChiseledBlackSandstoneR",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_chiseled_black_sandstone_r",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "SCBlackSandstoneSlabR",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_black_sandstone_slab_r",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "BlackSandstoneWall",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_sandstone_wall",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "SCBlackSandstoneWall",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_black_sandstone_wall",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "BlackSandstoneWallR",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_sandstone_wall_r",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "SmoothBlackSandstoneSlab",
+      "type": "block",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smooth_black_sandstone_slab",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "SmoothBlackSandstoneStairs",
+      "type": "block",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smooth_black_sandstone_stairs",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "SCSmoothBlackSandstoneSlabR",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_smooth_black_sandstone_slab_r",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "SmoothBlackSandstoneSlabR",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smooth_black_sandstone_slab_r",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "SCSmoothBlackSandstoneStairsR",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_smooth_black_sandstone_stairs_r",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "SmoothBlackSandstoneStairsR",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smooth_black_sandstone_stairs_r",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "DreadSlab",
+      "type": "block",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_slab",
+      "path": "~/Biomes/Dread"
+    },
+    {
+      "name": "LushBlackSandPro",
+      "type": "procedure",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lush_black_sand_pro",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "LushBlackSand",
+      "type": "block",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "lush_black_sand",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "Coconut",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coconut",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "CoconutFood",
+      "type": "item",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coconut_food",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "CoconutFoodR",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coconut_food_r",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "Seashell",
+      "type": "block",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "seashell",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "ConchShell",
+      "type": "block",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "conch_shell",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "SeashellGen",
+      "type": "structure",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "seashell_gen",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "ConchShellGen",
+      "type": "structure",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "conch_shell_gen",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "ReinforcedGlass",
+      "type": "block",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforced_glass",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "ReinforcedGlassR",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforced_glass_r",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "ReinforcedGlassPane",
+      "type": "block",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforced_glass_pane",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "ReinforcedGlassPaneR",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforced_glass_pane_r",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "HorizontalReinforcedGlassPane",
+      "type": "block",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "horizontal_reinforced_glass_pane",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "HorizontalReinforcedGlassPaneR",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "horizontal_reinforced_glass_pane_r",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "WhitewoodLog",
+      "type": "block",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whitewood_log",
+      "path": "~/Biomes/Tropics/Whitewood"
+    },
+    {
+      "name": "WhitewoodPlanks",
+      "type": "block",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whitewood_planks",
+      "path": "~/Biomes/Tropics/Whitewood"
+    },
+    {
+      "name": "WhitewoodLeaves",
+      "type": "block",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whitewood_leaves",
+      "path": "~/Biomes/Tropics/Whitewood"
+    },
+    {
+      "name": "WhitewoodSlab",
+      "type": "block",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whitewood_slab",
+      "path": "~/Biomes/Tropics/Whitewood"
+    },
+    {
+      "name": "WhitewoodStairs",
+      "type": "block",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whitewood_stairs",
+      "path": "~/Biomes/Tropics/Whitewood"
+    },
+    {
+      "name": "WhitewoodFence",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whitewood_fence",
+      "path": "~/Biomes/Tropics/Whitewood"
+    },
+    {
+      "name": "WhitewoodFenceGate",
+      "type": "block",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whitewood_fence_gate",
+      "path": "~/Biomes/Tropics/Whitewood"
+    },
+    {
+      "name": "WhitewoodDoor",
+      "type": "block",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whitewood_door",
+      "path": "~/Biomes/Tropics/Whitewood"
+    },
+    {
+      "name": "WhitewoodTrapdoor",
+      "type": "block",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whitewood_trapdoor",
+      "path": "~/Biomes/Tropics/Whitewood"
+    },
+    {
+      "name": "WhitewoodPlanksR",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whitewood_planks_r",
+      "path": "~/Biomes/Tropics/Whitewood/Recipes"
+    },
+    {
+      "name": "WhitewoodSlabR",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whitewood_slab_r",
+      "path": "~/Biomes/Tropics/Whitewood/Recipes"
+    },
+    {
+      "name": "WhitewoodStairsR",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whitewood_stairs_r",
+      "path": "~/Biomes/Tropics/Whitewood/Recipes"
+    },
+    {
+      "name": "WhitewoodFenceR",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whitewood_fence_r",
+      "path": "~/Biomes/Tropics/Whitewood/Recipes"
+    },
+    {
+      "name": "WhitewoodFenceGateR",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whitewood_fence_gate_r",
+      "path": "~/Biomes/Tropics/Whitewood/Recipes"
+    },
+    {
+      "name": "WhitewoodDoorR",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whitewood_door_r",
+      "path": "~/Biomes/Tropics/Whitewood/Recipes"
+    },
+    {
+      "name": "WhitewoodTrapdoorR",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whitewood_trapdoor_r",
+      "path": "~/Biomes/Tropics/Whitewood/Recipes"
+    },
+    {
+      "name": "WhitewoodWood",
+      "type": "block",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whitewood_wood",
+      "path": "~/Biomes/Tropics/Whitewood"
+    },
+    {
+      "name": "WhitewoodWoodR",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whitewood_wood_r",
+      "path": "~/Biomes/Tropics/Whitewood/Recipes"
+    },
+    {
+      "name": "WhitewoodWoodPlanksR",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whitewood_wood_planks_r",
+      "path": "~/Biomes/Tropics/Whitewood/Recipes"
+    },
+    {
+      "name": "StrippedWhitewoodLog",
+      "type": "block",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_whitewood_log",
+      "path": "~/Biomes/Tropics/Whitewood"
+    },
+    {
+      "name": "StrippedWhitewoodWood",
+      "type": "block",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_whitewood_wood",
+      "path": "~/Biomes/Tropics/Whitewood"
+    },
+    {
+      "name": "StrippedTropicsWood",
+      "type": "block",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_tropics_wood",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "StrippedTropicsLog",
+      "type": "block",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_tropics_log",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "DreadStairs",
+      "type": "block",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_stairs",
+      "path": "~/Biomes/Dread"
+    },
+    {
+      "name": "DreadFence",
+      "type": "block",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_fence",
+      "path": "~/Biomes/Dread"
+    },
+    {
+      "name": "DreadFenceGate",
+      "type": "block",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_fence_gate",
+      "path": "~/Biomes/Dread"
+    },
+    {
+      "name": "DreadDoor",
+      "type": "block",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_door",
+      "path": "~/Biomes/Dread"
+    },
+    {
+      "name": "DreadTrapdoor",
+      "type": "block",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_trapdoor",
+      "path": "~/Biomes/Dread"
+    },
+    {
+      "name": "DreadPlanksR",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_planks_r",
+      "path": "~/Biomes/Dread/Recipes"
+    },
+    {
+      "name": "DreadSlabR",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_slab_r",
+      "path": "~/Biomes/Dread/Recipes"
+    },
+    {
+      "name": "DreadStairsR",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_stairs_r",
+      "path": "~/Biomes/Dread/Recipes"
+    },
+    {
+      "name": "DreadFenceR",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_fence_r",
+      "path": "~/Biomes/Dread/Recipes"
+    },
+    {
+      "name": "DreadFenceGateR",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_fence_gate_r",
+      "path": "~/Biomes/Dread/Recipes"
+    },
+    {
+      "name": "DreadDoorR",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_door_r",
+      "path": "~/Biomes/Dread/Recipes"
+    },
+    {
+      "name": "DreadTrapdoorR",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_trapdoor_r",
+      "path": "~/Biomes/Dread/Recipes"
+    },
+    {
+      "name": "DreadSandstoneR",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_sandstone_r",
+      "path": "~/Biomes/Dread/Recipes"
+    },
+    {
+      "name": "DreadSandstoneSlab",
+      "type": "block",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_sandstone_slab",
+      "path": "~/Biomes/Dread"
+    },
+    {
+      "name": "DreadSandstoneStairs",
+      "type": "block",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_sandstone_stairs",
+      "path": "~/Biomes/Dread"
+    },
+    {
+      "name": "DreadSandstoneSlabR",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_sandstone_slab_r",
+      "path": "~/Biomes/Dread/Recipes"
+    },
+    {
+      "name": "DreadSandstoneWall",
+      "type": "block",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_sandstone_wall",
+      "path": "~/Biomes/Dread"
+    },
+    {
+      "name": "CutDreadSandstone",
+      "type": "block",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_dread_sandstone",
+      "path": "~/Biomes/Dread"
+    },
+    {
+      "name": "SmoothDreadSandstone",
+      "type": "block",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smooth_dread_sandstone",
+      "path": "~/Biomes/Dread"
+    },
+    {
+      "name": "CutDreadSandstoneR",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_dread_sandstone_r",
+      "path": "~/Biomes/Dread/Recipes"
+    },
+    {
+      "name": "SCCutDreadSandstoneR",
+      "type": "recipe",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_cut_dread_sandstone_r",
+      "path": "~/Biomes/Dread/Recipes"
+    },
+    {
+      "name": "SCDreadSandstoneSlabR",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_dread_sandstone_slab_r",
+      "path": "~/Biomes/Dread/Recipes"
+    },
+    {
+      "name": "SCDreadSandstoneWallR",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_dread_sandstone_wall_r",
+      "path": "~/Biomes/Dread/Recipes"
+    },
+    {
+      "name": "DreadSandstoneWallR",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_sandstone_wall_r",
+      "path": "~/Biomes/Dread/Recipes"
+    },
+    {
+      "name": "SmoothDreadSandstoneR",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smooth_dread_sandstone_r",
+      "path": "~/Biomes/Dread/Recipes"
+    },
+    {
+      "name": "ChiseledDreadSandstone",
+      "type": "block",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiseled_dread_sandstone",
+      "path": "~/Biomes/Dread"
+    },
+    {
+      "name": "ChiseledDreadSandstoneR",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiseled_dread_sandstone_r",
+      "path": "~/Biomes/Dread/Recipes"
+    },
+    {
+      "name": "SCChiseledDreadSandstoneR",
+      "type": "recipe",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_chiseled_dread_sandstone_r",
+      "path": "~/Biomes/Dread/Recipes"
+    },
+    {
+      "name": "SmoothDreadSandstoneSlab",
+      "type": "block",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smooth_dread_sandstone_slab",
+      "path": "~/Biomes/Dread"
+    },
+    {
+      "name": "SmoothDreadSandstoneStairs",
+      "type": "block",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smooth_dread_sandstone_stairs",
+      "path": "~/Biomes/Dread"
+    },
+    {
+      "name": "SmoothDreadSandstoneSlabR",
+      "type": "recipe",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smooth_dread_sandstone_slab_r",
+      "path": "~/Biomes/Dread/Recipes"
+    },
+    {
+      "name": "SmoothDreadSandstoneStairsR",
+      "type": "recipe",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smooth_dread_sandstone_stairs_r",
+      "path": "~/Biomes/Dread/Recipes"
+    },
+    {
+      "name": "SCSmoothDreadSandstoneSlabR",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_smooth_dread_sandstone_slab_r",
+      "path": "~/Biomes/Dread/Recipes"
+    },
+    {
+      "name": "SCSmoothDreadSandstoneStairsR",
+      "type": "recipe",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_smooth_dread_sandstone_stairs_r",
+      "path": "~/Biomes/Dread/Recipes"
+    },
+    {
+      "name": "StrippedDreadWood",
+      "type": "block",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_dread_wood",
+      "path": "~/Biomes/Dread"
+    },
+    {
+      "name": "StrippedDreadLog",
+      "type": "block",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_dread_log",
+      "path": "~/Biomes/Dread"
+    },
+    {
+      "name": "StrippedDreadLogToPlanks",
+      "type": "recipe",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_dread_log_to_planks",
+      "path": "~/Biomes/Dread/Recipes"
+    },
+    {
+      "name": "StrippedDreadWoodToPlanks",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_dread_wood_to_planks",
+      "path": "~/Biomes/Dread/Recipes"
+    },
+    {
+      "name": "StrippedTropicsWoodToPlanks",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_tropics_wood_to_planks",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "StrippedTropicsLogToPlanks",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_tropics_log_to_planks",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "StrippedWhitewoodWoodToPlanks",
+      "type": "recipe",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_whitewood_wood_to_planks",
+      "path": "~/Biomes/Tropics/Whitewood/Recipes"
+    },
+    {
+      "name": "StrippedWhitewoodLogToPlanks",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_whitewood_log_to_planks",
+      "path": "~/Biomes/Tropics/Whitewood/Recipes"
+    },
+    {
+      "name": "Loam",
+      "type": "block",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "loam",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "TropicalGrass",
+      "type": "block",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "tropical_grass",
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "LoamGrassSpread",
+      "type": "procedure",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "loam_grass_spread",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "TropicalGrassUpdateTick",
+      "type": "procedure",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tropical_grass_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Biomes/Tropics"
+    },
+    {
+      "name": "Netherfrost",
+      "type": "block",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "netherfrost",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "SoulSnow",
+      "type": "block",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soul_snow",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "FrostStem",
+      "type": "block",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_wood_log",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "CoreWartBlock",
+      "type": "block",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "core_wart_block",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "Corelight",
+      "type": "block",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corelight",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "CoreNylium",
+      "type": "block",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "core_nylium",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "NetherIce",
+      "type": "block",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_ice",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "SulphurOreNC",
+      "type": "block",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sulphur_ore_nc",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "SulphurOreXP",
+      "type": "procedure",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sulphur_ore_xp",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "Sulphur",
+      "type": "item",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sulphur",
+      "path": "~/Gems"
+    },
+    {
+      "name": "SulphurOreNCLT",
+      "type": "loottable",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sulphur_ore_nclt",
+      "path": "~/Gems/GemOreLootTables"
+    },
+    {
+      "name": "StrippedFrostWood",
+      "type": "block",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_frost_wood",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "StrippedFrostLog",
+      "type": "block",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_frost_log",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "FrostPlanks",
+      "type": "block",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_planks",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "FrostSlab",
+      "type": "block",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_slab",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "FrostStairs",
+      "type": "block",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_stairs",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "FrostFence",
+      "type": "block",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_fence",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "FrostFenceGate",
+      "type": "block",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_fence_gate",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "CoreNyliumLT",
+      "type": "loottable",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "core_nylium_lt",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "TadaniteOre",
+      "type": "block",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tadanite_ore",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "TadaniteCrystal",
+      "type": "item",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tadanite_crystal",
+      "path": "~/Dimensions/NetherCore/Tadanite"
+    },
+    {
+      "name": "TadaniteOreLT",
+      "type": "loottable",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tadanite_ore_lt",
+      "path": "~/Dimensions/NetherCore/Tadanite"
+    },
+    {
+      "name": "FreezingTick",
+      "type": "procedure",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "freezing_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/PotionEffects"
+    },
+    {
+      "name": "Freezing",
+      "type": "potioneffect",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "freezing",
+      "path": "~/PotionEffects"
+    },
+    {
+      "name": "Warmth",
+      "type": "potioneffect",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warmth",
+      "path": "~/PotionEffects"
+    },
+    {
+      "name": "SlowInMoltenIce",
+      "type": "procedure",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "slow_in_molten_ice",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/PotionEffects"
+    },
+    {
+      "name": "MoltenIce",
+      "type": "fluid",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "molten_ice",
+      "metadata": {
+        "gb": true
+      },
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "WarmthPotionItem",
+      "type": "potion",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warmth_potion_item",
+      "path": "~/PotionEffects"
+    },
+    {
+      "name": "NetherCoreTundra",
+      "type": "biome",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_core_tundra",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "NetherCore",
+      "type": "dimension",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_core",
+      "metadata": {
+        "ep": true
+      },
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "NetherCoreCanMakePortal",
+      "type": "procedure",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_core_can_make_portal",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "SoulSnowFlats",
+      "type": "biome",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soul_snow_flats",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "CoreGrove",
+      "type": "biome",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "core_grove",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "CoreFungus",
+      "type": "plant",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "core_fungus",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "CoreVines",
+      "type": "block",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "core_vine",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "CoreVineGroundVineThing",
+      "type": "procedure",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "core_vine_ground_vine_thing",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "NetherCoreGladeAir",
+      "type": "block",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_core_grove_air",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "NetherCoreGroveAirUpdate",
+      "type": "procedure",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_core_grove_air_update",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "NetherCoreGroveAirPro",
+      "type": "procedure",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_core_grove_air_pro",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "NetherCoreGroveAirGen",
+      "type": "structure",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_core_grove_air_gen",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "Salt",
+      "type": "block",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "salt",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "CoreSpikeRandomThing",
+      "type": "procedure",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "core_spike_random_thing",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "SaltTerracesUpdate",
+      "type": "procedure",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "salt_terraces_update",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "SaltTerracesPro",
+      "type": "procedure",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "salt_terraces_pro",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "SaltTerracesAir",
+      "type": "block",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "salt_deltas_air",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "SaltTerraces",
+      "type": "biome",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "salt_terraces",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "SaltTerracesAirGen",
+      "type": "structure",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "salt_terraces_air_gen",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "PermaIce",
+      "type": "block",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "perma_ice",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "NetherCoreFreezeWater",
+      "type": "procedure",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "nether_core_freeze_water",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "Tadanite",
+      "type": "armor",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "tadanite",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Dimensions/NetherCore/Tadanite"
+    },
+    {
+      "name": "TadaniteArmorTick",
+      "type": "procedure",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tadanite_armor_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Dimensions/NetherCore/Tadanite"
+    },
+    {
+      "name": "TadaniteBlock",
+      "type": "block",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tadanite_block",
+      "path": "~/Dimensions/NetherCore/Tadanite"
+    },
+    {
+      "name": "TadanitePickaxe",
+      "type": "tool",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tadanite_pickaxe",
+      "path": "~/Dimensions/NetherCore/Tadanite"
+    },
+    {
+      "name": "TadaniteSword",
+      "type": "tool",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tadanite_sword",
+      "path": "~/Dimensions/NetherCore/Tadanite"
+    },
+    {
+      "name": "TadaniteAxe",
+      "type": "tool",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tadanite_axe",
+      "path": "~/Dimensions/NetherCore/Tadanite"
+    },
+    {
+      "name": "TadaniteShovel",
+      "type": "tool",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tadanite_shovel",
+      "path": "~/Dimensions/NetherCore/Tadanite"
+    },
+    {
+      "name": "TadaniteHoe",
+      "type": "tool",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tadanite_hoe",
+      "path": "~/Dimensions/NetherCore/Tadanite"
+    },
+    {
+      "name": "ObsidifiedBlazeRod",
+      "type": "item",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidified_blaze_rod",
+      "path": "~/Dimensions/NetherStuff"
+    },
+    {
+      "name": "TadaniteDiamond",
+      "type": "item",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tadanite_diamond",
+      "path": "~/Dimensions/NetherCore/Tadanite"
+    },
+    {
+      "name": "TadaniteDiamondR",
+      "type": "recipe",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tadanite_diamond_r",
+      "path": "~/Dimensions/NetherCore/Tadanite/Recipes"
+    },
+    {
+      "name": "TadanitePickaxeR",
+      "type": "recipe",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tadanite_pickaxe_r",
+      "path": "~/Dimensions/NetherCore/Tadanite/Recipes"
+    },
+    {
+      "name": "TadaniteSwordR",
+      "type": "recipe",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tadanite_sword_r",
+      "path": "~/Dimensions/NetherCore/Tadanite/Recipes"
+    },
+    {
+      "name": "TadaniteAxeR",
+      "type": "recipe",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tadanite_axe_r",
+      "path": "~/Dimensions/NetherCore/Tadanite/Recipes"
+    },
+    {
+      "name": "TadaniteShovelR",
+      "type": "recipe",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tadanite_shovel_r",
+      "path": "~/Dimensions/NetherCore/Tadanite/Recipes"
+    },
+    {
+      "name": "TadaniteHoeR",
+      "type": "recipe",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tadanite_hoe_r",
+      "path": "~/Dimensions/NetherCore/Tadanite/Recipes"
+    },
+    {
+      "name": "TadaniteHelmetR",
+      "type": "recipe",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tadanite_helmet_r",
+      "path": "~/Dimensions/NetherCore/Tadanite/Recipes"
+    },
+    {
+      "name": "TadaniteChestplateR",
+      "type": "recipe",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tadanite_chestplate_r",
+      "path": "~/Dimensions/NetherCore/Tadanite/Recipes"
+    },
+    {
+      "name": "TadaniteLeggingsR",
+      "type": "recipe",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tadanite_leggings_r",
+      "path": "~/Dimensions/NetherCore/Tadanite/Recipes"
+    },
+    {
+      "name": "TadaniteBootsR",
+      "type": "recipe",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tadanite_boots_r",
+      "path": "~/Dimensions/NetherCore/Tadanite/Recipes"
+    },
+    {
+      "name": "TadaniteBlockR",
+      "type": "recipe",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tadanite_block_r",
+      "path": "~/Dimensions/NetherCore/Tadanite/Recipes"
+    },
+    {
+      "name": "TadaniteBlockD",
+      "type": "recipe",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tadanite_block_d",
+      "path": "~/Dimensions/NetherCore/Tadanite/Recipes"
+    },
+    {
+      "name": "FrostPlanksR",
+      "type": "recipe",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_planks_r",
+      "path": "~/Dimensions/NetherCore/Recipes"
+    },
+    {
+      "name": "FrostHyphae",
+      "type": "block",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_hyphae",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "FrostPlanksFromHyphaeR",
+      "type": "recipe",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_planks_from_hyphae_r",
+      "path": "~/Dimensions/NetherCore/Recipes"
+    },
+    {
+      "name": "FrostSlabR",
+      "type": "recipe",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_slab_r",
+      "path": "~/Dimensions/NetherCore/Recipes"
+    },
+    {
+      "name": "FrostStairsR",
+      "type": "recipe",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_stairs_r",
+      "path": "~/Dimensions/NetherCore/Recipes"
+    },
+    {
+      "name": "FrostFenceR",
+      "type": "recipe",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_fence_r",
+      "path": "~/Dimensions/NetherCore/Recipes"
+    },
+    {
+      "name": "FrostFenceGateR",
+      "type": "recipe",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_fence_gate_r",
+      "path": "~/Dimensions/NetherCore/Recipes"
+    },
+    {
+      "name": "FrostDoor",
+      "type": "block",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_door",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "FrostTrapdoor",
+      "type": "block",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_trapdoor",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "FrostDoorR",
+      "type": "recipe",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_door_r",
+      "path": "~/Dimensions/NetherCore/Recipes"
+    },
+    {
+      "name": "FrostTrapdoorR",
+      "type": "recipe",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_trapdoor_r",
+      "path": "~/Dimensions/NetherCore/Recipes"
+    },
+    {
+      "name": "Planks",
+      "type": "tag",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "planks",
+      "path": "~/Tags"
+    },
+    {
+      "name": "FrostHyphaeR",
+      "type": "recipe",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_hyphae_r",
+      "path": "~/Dimensions/NetherCore/Recipes"
+    },
+    {
+      "name": "CactusPlanks",
+      "type": "block",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cactus_planks",
+      "path": "~/VanillaEnhancements"
+    },
+    {
+      "name": "CactusDoor",
+      "type": "block",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cactus_door",
+      "path": "~/VanillaEnhancements"
+    },
+    {
+      "name": "CactusTrapdoor",
+      "type": "block",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cactus_trapdoor",
+      "path": "~/VanillaEnhancements"
+    },
+    {
+      "name": "CactusPlanksR",
+      "type": "recipe",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cactus_planks_r",
+      "path": "~/VanillaEnhancements/Recipes"
+    },
+    {
+      "name": "CactusDoorR",
+      "type": "recipe",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cactus_door_r",
+      "path": "~/VanillaEnhancements/Recipes"
+    },
+    {
+      "name": "CactusTrapdoorR",
+      "type": "recipe",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cactus_trapdoor_r",
+      "path": "~/VanillaEnhancements/Recipes"
+    },
+    {
+      "name": "CedarLog",
+      "type": "block",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_log",
+      "path": "~/Biomes/CedarGrove"
+    },
+    {
+      "name": "CedarWood",
+      "type": "block",
+      "sortid": 231,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_wood",
+      "path": "~/Biomes/CedarGrove"
+    },
+    {
+      "name": "CedarLeaves",
+      "type": "block",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_leaves",
+      "path": "~/Biomes/CedarGrove"
+    },
+    {
+      "name": "Logs",
+      "type": "tag",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "logs",
+      "path": "~/Tags"
+    },
+    {
+      "name": "DreadWood",
+      "type": "block",
+      "sortid": 234,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_wood",
+      "path": "~/Biomes/Dread"
+    },
+    {
+      "name": "DreadPlanksFromWood",
+      "type": "recipe",
+      "sortid": 235,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_planks_from_wood",
+      "path": "~/Biomes/Dread/Recipes"
+    },
+    {
+      "name": "StrippedCedarWood",
+      "type": "block",
+      "sortid": 236,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_cedar_wood",
+      "path": "~/Biomes/CedarGrove"
+    },
+    {
+      "name": "StrippedCedarLog",
+      "type": "block",
+      "sortid": 237,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_cedar_log",
+      "path": "~/Biomes/CedarGrove"
+    },
+    {
+      "name": "CedarPlanks",
+      "type": "block",
+      "sortid": 238,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_planks",
+      "path": "~/Biomes/CedarGrove"
+    },
+    {
+      "name": "CedarSlab",
+      "type": "block",
+      "sortid": 239,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_slab",
+      "path": "~/Biomes/CedarGrove"
+    },
+    {
+      "name": "CedarStairs",
+      "type": "block",
+      "sortid": 240,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_stairs",
+      "path": "~/Biomes/CedarGrove"
+    },
+    {
+      "name": "CedarFence",
+      "type": "block",
+      "sortid": 241,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_fence",
+      "path": "~/Biomes/CedarGrove"
+    },
+    {
+      "name": "DreadPressurePlate",
+      "type": "block",
+      "sortid": 242,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_pressure_plate",
+      "path": "~/Biomes/Dread"
+    },
+    {
+      "name": "DreadButton",
+      "type": "block",
+      "sortid": 243,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_button",
+      "path": "~/Biomes/Dread"
+    },
+    {
+      "name": "DreadPressurePlateR",
+      "type": "recipe",
+      "sortid": 244,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_pressure_plate_r",
+      "path": "~/Biomes/Dread/Recipes"
+    },
+    {
+      "name": "DreadButtonR",
+      "type": "recipe",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_button_r",
+      "path": "~/Biomes/Dread/Recipes"
+    },
+    {
+      "name": "CedarFenceGate",
+      "type": "block",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_fence_gate",
+      "path": "~/Biomes/CedarGrove"
+    },
+    {
+      "name": "CedarPressurePlate",
+      "type": "block",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_pressure_plate",
+      "path": "~/Biomes/CedarGrove"
+    },
+    {
+      "name": "CedarButton",
+      "type": "block",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_button",
+      "path": "~/Biomes/CedarGrove"
+    },
+    {
+      "name": "CedarDoor",
+      "type": "block",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_door",
+      "path": "~/Biomes/CedarGrove"
+    },
+    {
+      "name": "CedarTrapdoor",
+      "type": "block",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_trapdoor",
+      "path": "~/Biomes/CedarGrove"
+    },
+    {
+      "name": "CedarPlanksR",
+      "type": "recipe",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_planks_r",
+      "path": "~/Biomes/CedarGrove/Recipes"
+    },
+    {
+      "name": "CedarPlanksR2",
+      "type": "recipe",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_planks_r_2",
+      "path": "~/Biomes/CedarGrove/Recipes"
+    },
+    {
+      "name": "CedarPlanksR3",
+      "type": "recipe",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_planks_r_3",
+      "path": "~/Biomes/CedarGrove/Recipes"
+    },
+    {
+      "name": "CedarPlanksR4",
+      "type": "recipe",
+      "sortid": 254,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_planks_r_4",
+      "path": "~/Biomes/CedarGrove/Recipes"
+    },
+    {
+      "name": "CedarSlabR",
+      "type": "recipe",
+      "sortid": 255,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_slab_r",
+      "path": "~/Biomes/CedarGrove/Recipes"
+    },
+    {
+      "name": "CedarStairsR",
+      "type": "recipe",
+      "sortid": 256,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_stairs_r",
+      "path": "~/Biomes/CedarGrove/Recipes"
+    },
+    {
+      "name": "CedarDoorR",
+      "type": "recipe",
+      "sortid": 257,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_door_r",
+      "path": "~/Biomes/CedarGrove/Recipes"
+    },
+    {
+      "name": "CedarTrapdoorR",
+      "type": "recipe",
+      "sortid": 258,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_trapdoor_r",
+      "path": "~/Biomes/CedarGrove/Recipes"
+    },
+    {
+      "name": "CedarFenceR",
+      "type": "recipe",
+      "sortid": 259,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_fence_r",
+      "path": "~/Biomes/CedarGrove/Recipes"
+    },
+    {
+      "name": "CedarFenceGateR",
+      "type": "recipe",
+      "sortid": 260,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_fence_gate_r",
+      "path": "~/Biomes/CedarGrove/Recipes"
+    },
+    {
+      "name": "CedarPressurePlateR",
+      "type": "recipe",
+      "sortid": 261,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_pressure_plate_r",
+      "path": "~/Biomes/CedarGrove/Recipes"
+    },
+    {
+      "name": "CedarButtonR",
+      "type": "recipe",
+      "sortid": 262,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_button_r",
+      "path": "~/Biomes/CedarGrove/Recipes"
+    },
+    {
+      "name": "CedarWoodR",
+      "type": "recipe",
+      "sortid": 263,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_wood_r",
+      "path": "~/Biomes/CedarGrove/Recipes"
+    },
+    {
+      "name": "StrippedCedarWoodR",
+      "type": "recipe",
+      "sortid": 264,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_cedar_wood_r",
+      "path": "~/Biomes/CedarGrove/Recipes"
+    },
+    {
+      "name": "StrippedTropicsWoodR",
+      "type": "recipe",
+      "sortid": 265,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_tropics_wood_r",
+      "path": "~/Biomes/Tropics/Recipes"
+    },
+    {
+      "name": "StrippedWhitewoodWoodR",
+      "type": "recipe",
+      "sortid": 266,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_whitewood_wood_r",
+      "path": "~/Biomes/Tropics/Whitewood/Recipes"
+    },
+    {
+      "name": "WhitewoodPressurePlate",
+      "type": "block",
+      "sortid": 267,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whitewood_pressure_plate",
+      "path": "~/Biomes/Tropics/Whitewood"
+    },
+    {
+      "name": "WhitewoodButton",
+      "type": "block",
+      "sortid": 268,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whitewood_button",
+      "path": "~/Biomes/Tropics/Whitewood"
+    },
+    {
+      "name": "WhitewoodPressurePlateR",
+      "type": "recipe",
+      "sortid": 269,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whitewood_pressure_plate_r",
+      "path": "~/Biomes/Tropics/Whitewood/Recipes"
+    },
+    {
+      "name": "WhitewoodButtonR",
+      "type": "recipe",
+      "sortid": 270,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whitewood_button_r",
+      "path": "~/Biomes/Tropics/Whitewood/Recipes"
+    },
+    {
+      "name": "CoreRoots",
+      "type": "plant",
+      "sortid": 271,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "core_roots",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "Scoria",
+      "type": "block",
+      "sortid": 272,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scoria",
+      "path": "~/Biomes/FieryDeathCave"
+    },
+    {
+      "name": "LightlyCharredScoria",
+      "type": "block",
+      "sortid": 273,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lightly_charred_scoria",
+      "path": "~/Biomes/FieryDeathCave"
+    },
+    {
+      "name": "CharredScoria",
+      "type": "block",
+      "sortid": 274,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "charred_scoria",
+      "path": "~/Biomes/FieryDeathCave"
+    },
+    {
+      "name": "FrozenMistBucket",
+      "type": "item",
+      "sortid": 275,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frozen_mist_bucket",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "FrozenMist",
+      "type": "block",
+      "sortid": 275,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frozen_mist",
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "FrozenMistBucketRightClickOnBlock",
+      "type": "procedure",
+      "sortid": 275,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frozen_mist_bucket_right_click_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "FrozenMistOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 275,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frozen_mist_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Dimensions/NetherCore"
+    },
+    {
+      "name": "DreadRock",
+      "type": "block",
+      "sortid": 276,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "dread_rock",
+      "path": "~/Biomes/Dread"
+    },
+    {
+      "name": "DreadRockBricks",
+      "type": "block",
+      "sortid": 277,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_rock_bricks",
+      "path": "~/Biomes/Dread"
+    },
+    {
+      "name": "DreadRockBricksR",
+      "type": "recipe",
+      "sortid": 278,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dread_rock_bricks_r",
+      "path": "~/Biomes/Dread/Recipes"
+    },
+    {
+      "name": "ValleyOfTheDamned",
+      "type": "biome",
+      "sortid": 279,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valley_of_the_damned",
+      "path": "~/Biomes/Dread"
+    },
+    {
+      "name": "CedarGrove",
+      "type": "biome",
+      "sortid": 280,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_grove",
+      "path": "~/Biomes/CedarGrove"
+    },
+    {
+      "name": "CedarTreeGen",
+      "type": "structure",
+      "sortid": 281,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_tree_gen",
+      "path": "~/Biomes/CedarGrove"
+    },
+    {
+      "name": "ReinChestClosed",
+      "type": "procedure",
+      "sortid": 282,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rein_chest_closed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/ReinforcedChest"
+    },
+    {
+      "name": "ReinChestGUI",
+      "type": "gui",
+      "sortid": 282,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rein_chest_gui",
+      "path": "~/ReinforcedChest"
+    },
+    {
+      "name": "ReinChestOpen",
+      "type": "procedure",
+      "sortid": 283,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rein_chest_open",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/ReinforcedChest"
+    },
+    {
+      "name": "ReinforcedChest",
+      "type": "block",
+      "sortid": 283,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforced_chest",
+      "path": "~/ReinforcedChest"
+    },
+    {
+      "name": "ReinforcedChestR",
+      "type": "recipe",
+      "sortid": 284,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforced_chest_r",
+      "path": "~/ReinforcedChest"
+    },
+    {
+      "name": "ObsidianArmor",
+      "type": "procedure",
+      "sortid": 285,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_armor",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Dimensions/NetherStuff/ObsidianArmors"
+    },
+    {
+      "name": "Obsidian",
+      "type": "armor",
+      "sortid": 285,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Dimensions/NetherStuff/ObsidianArmors"
+    },
+    {
+      "name": "ObsidianFabric",
+      "type": "item",
+      "sortid": 286,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_fabric",
+      "path": "~/Dimensions/NetherStuff/ObsidianArmors"
+    },
+    {
+      "name": "GildedObsidianArmor",
+      "type": "procedure",
+      "sortid": 287,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_obsidian_armor",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Dimensions/NetherStuff/ObsidianArmors"
+    },
+    {
+      "name": "GildedObsidian",
+      "type": "armor",
+      "sortid": 287,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "gilded_obsidian",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Dimensions/NetherStuff/ObsidianArmors"
+    },
+    {
+      "name": "ObsidianConstruct",
+      "type": "item",
+      "sortid": 288,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_construct",
+      "path": "~/Dimensions/NetherStuff/ObsidianArmors"
+    },
+    {
+      "name": "ObsidianConstructR",
+      "type": "recipe",
+      "sortid": 289,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_construct_r",
+      "path": "~/Dimensions/NetherStuff/ObsidianArmors"
+    },
+    {
+      "name": "ObsidianFabricR",
+      "type": "recipe",
+      "sortid": 290,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_fabric_r",
+      "path": "~/Dimensions/NetherStuff/ObsidianArmors"
+    },
+    {
+      "name": "ObsidianHelmetR",
+      "type": "recipe",
+      "sortid": 291,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_helmet_r",
+      "path": "~/Dimensions/NetherStuff/ObsidianArmors"
+    },
+    {
+      "name": "ObsidianChestplateR",
+      "type": "recipe",
+      "sortid": 292,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_chestplate_r",
+      "path": "~/Dimensions/NetherStuff/ObsidianArmors"
+    },
+    {
+      "name": "ObsidianLeggingsR",
+      "type": "recipe",
+      "sortid": 293,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_leggings_r",
+      "path": "~/Dimensions/NetherStuff/ObsidianArmors"
+    },
+    {
+      "name": "ObsidianBootsR",
+      "type": "recipe",
+      "sortid": 294,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_boots_r",
+      "path": "~/Dimensions/NetherStuff/ObsidianArmors"
+    },
+    {
+      "name": "GildedObsidianHelmetR",
+      "type": "recipe",
+      "sortid": 295,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_obsidian_helmet_r",
+      "path": "~/Dimensions/NetherStuff/ObsidianArmors"
+    },
+    {
+      "name": "GildedObsidianChestplateR",
+      "type": "recipe",
+      "sortid": 296,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_obsidian_chestplate_r",
+      "path": "~/Dimensions/NetherStuff/ObsidianArmors"
+    },
+    {
+      "name": "GildedObsidianLeggingsR",
+      "type": "recipe",
+      "sortid": 297,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_obsidian_leggings_r",
+      "path": "~/Dimensions/NetherStuff/ObsidianArmors"
+    },
+    {
+      "name": "GildedObsidianBootsR",
+      "type": "recipe",
+      "sortid": 298,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_obsidian_boots_r",
+      "path": "~/Dimensions/NetherStuff/ObsidianArmors"
+    },
+    {
+      "name": "ObsidifiedBlazeRodR",
+      "type": "recipe",
+      "sortid": 299,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidified_blaze_rod_r",
+      "path": "~/Dimensions/NetherStuff"
+    },
+    {
+      "name": "BlazeBrick",
+      "type": "block",
+      "sortid": 300,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blaze_brick",
+      "path": "~/Dimensions/NetherStuff"
+    },
+    {
+      "name": "BlazeBrickR",
+      "type": "recipe",
+      "sortid": 301,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blaze_brick_r",
+      "path": "~/Dimensions/NetherStuff"
+    },
+    {
+      "name": "BorderlessGlass",
+      "type": "block",
+      "sortid": 302,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borderless_glass",
+      "path": "~/Biomes/Dread"
+    },
+    {
+      "name": "BorderlessGlassR",
+      "type": "recipe",
+      "sortid": 303,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borderless_glass_r",
+      "path": "~/Biomes/Dread/Recipes"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "cactus_planks_break",
+      "files": [
+        "cactus_planks_break"
+      ],
+      "category": "block",
+      "subtitle": ""
+    },
+    {
+      "name": "cactus_planks_hit",
+      "files": [
+        "cactus_planks_hit"
+      ],
+      "category": "block",
+      "subtitle": ""
+    },
+    {
+      "name": "cactus_planks_place",
+      "files": [
+        "cactus_planks_place"
+      ],
+      "category": "block",
+      "subtitle": ""
+    },
+    {
+      "name": "cactus_planks_step",
+      "files": [
+        "cactus_planks_step"
+      ],
+      "category": "block",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "block.blahmod.stripped_whitewood_wood": "Stripped Whitewood Wood",
+      "item.blahmod.gilded_obsidian_leggings": "Gilded Obsidian Leggings",
+      "block.blahmod.cedar_door": "Cedar Door",
+      "block.blahmod.cactus_trapdoor": "Cactus Trapdoor",
+      "block.blahmod.tropics_pressure_plate": "Tropics Pressure Plate",
+      "block.blahmod.loam": "Loam",
+      "block.blahmod.tropics_planks": "Tropics Planks",
+      "block.blahmod.frost_planks": "Frost Planks",
+      "block.blahmod.tropics_door": "Tropics Door",
+      "item.blahmod.tadanite_axe": "§aTadanite Axe",
+      "subtitles.cactus_planks_hit": "",
+      "death.attack.freezing.player": "%1$s froze to death whilst fighting %2$s",
+      "item.blahmod.molten_ice_bucket": "Molten Ice Bucket",
+      "effect.blahmod.warmth": "Ice Resistance",
+      "block.blahmod.core_fungus": "Core Fungus",
+      "block.blahmod.horizontal_reinforced_glass_pane": "Horizontal Reinforced Glass Pane",
+      "block.blahmod.tropics_wood": "Tropics Wood",
+      "block.blahmod.smooth_black_sandstone": "Smooth Black Sandstone",
+      "block.blahmod.dread_slab": "Dread Slab",
+      "block.blahmod.conch_shell": "Conch Shell",
+      "block.blahmod.whitewood_stairs": "Whitewood Stairs",
+      "block.blahmod.cedar_leaves": "Cedar Leaves",
+      "item.blahmod.tadanite_chestplate": "§aTadanite Body",
+      "biome.blahmod.salt_terraces": "Salt Terraces",
+      "block.blahmod.charred_scoria": "Charred Scoria",
+      "item.blahmod.obsidified_blaze_rod": "Obsidified Blaze Rod",
+      "item.blahmod.tadanite_pickaxe": "§aTadanite Pickaxe",
+      "item.minecraft.tipped_arrow.effect.warmth_potion_item": "Arrow of Warmth",
+      "block.blahmod.whitewood_trapdoor": "Whitewood Trapdoor",
+      "block.blahmod.cedar_wood": "Cedar Wood",
+      "block.blahmod.stripped_cedar_log": "Stripped Cedar Log",
+      "block.blahmod.dread_sandstone_slab": "Dread Sandstone Slab",
+      "item.blahmod.sulphur": "Sulphur",
+      "block.blahmod.stripped_cedar_wood": "Stripped Cedar Wood",
+      "block.blahmod.lush_black_sand": "Lush Black Sand",
+      "item.blahmod.tadanite_helmet": "§aTadanite Helmet",
+      "block.blahmod.whitewood_button": "Whitewood Button",
+      "block.blahmod.frost_fence": "Frost Fence",
+      "block.blahmod.tadanite_block": "Tadanite",
+      "item.blahmod.tadanite_hoe": "§aTadanite Hoe",
+      "block.blahmod.smooth_black_sandstone_slab": "Smooth Black Sandstone Slab",
+      "item.blahmod.the_tool": "§6The Tool™",
+      "block.blahmod.tropics_button": "Tropics Button",
+      "subtitles.cactus_planks_break": "",
+      "block.blahmod.dread_fence_gate": "Dread Fence Gate",
+      "block.blahmod.core_wart_block": "Core Wart Block",
+      "block.blahmod.whitewood_leaves": "Whitewood Leaves",
+      "block.blahmod.frost_door": "Frost Door",
+      "item.blahmod.gilded_obsidian_helmet": "Gilded Obsidian Helmet",
+      "block.blahmod.whitewood_fence_gate": "Whitewood Fence Gate",
+      "item.blahmod.coconut_food": "Coconut",
+      "itemGroup.tabitems_tab": "Core Ascension Items",
+      "block.blahmod.dread_rock_bricks": "Dread Rock Bricks",
+      "block.blahmod.ruby_ore": "Ruby Ore",
+      "block.blahmod.tropics_fence_gate": "Tropics Fence Gate",
+      "block.blahmod.cedar_fence": "Cedar Fence",
+      "block.blahmod.dread_sandstone": "Dread Sandstone",
+      "item.blahmod.obsidian_boots": "Obsidian Boots",
+      "block.blahmod.salt_deltas_air": "Salt Terraces Air",
+      "block.blahmod.cedar_stairs": "Cedar Stairs",
+      "block.blahmod.dread_sandstone_stairs": "Dread Sandstone Stairs",
+      "item.blahmod.tadanite_crystal": "§aTadanite Crystal",
+      "item.blahmod.obsidian_construct": "Obsidian Construct",
+      "block.blahmod.cedar_button": "Cedar Button",
+      "item.blahmod.obsidian_helmet": "Obsidian Helmet",
+      "block.blahmod.frozen_mist": "Frozen Mist",
+      "block.blahmod.dread_fence": "Dread Fence",
+      "block.blahmod.tropics_stairs": "Tropics Stairs",
+      "block.blahmod.stripped_tropics_wood": "Stripped Tropics Wood",
+      "item.blahmod.nether_core": "Nether Core Key",
+      "block.blahmod.black_sandstone_stairs": "Black Sandstone Stairs",
+      "block.blahmod.sulphur_ore_nc": "Sulphur Ore",
+      "block.blahmod.whitewood_slab": "Whitewood Slab",
+      "block.blahmod.frost_fence_gate": "Frost Fence Gate",
+      "biome.blahmod.soul_snow_flats": "Soul Snow Flats",
+      "block.blahmod.tropical_grass": "Tropical Grass",
+      "block.blahmod.blaze_brick": "Blaze Brick",
+      "block.blahmod.reinforced_glass_pane": "Reinforced Glass Pane",
+      "block.blahmod.black_sandstone_wall": "Black Sandstone Wall",
+      "block.blahmod.smooth_dread_sandstone_slab": "Smooth Dread Sandstone Slab",
+      "item.blahmod.obsidian_chestplate": "Obsidian Chestplate",
+      "block.blahmod.dread_planks": "Dread Planks",
+      "block.blahmod.smooth_dread_sandstone_stairs": "Smooth Dread Sandstone Stairs",
+      "block.blahmod.corelight": "Corelight",
+      "block.blahmod.salt": "Salt",
+      "item.blahmod.gilded_obsidian_chestplate": "Gilded Obsidian Chestplate",
+      "block.blahmod.cut_black_sandstone": "Cut Black Sandstone",
+      "block.blahmod.black_sandstone_slab": "Black Sandstone Slab",
+      "block.blahmod.cedar_log": "Cedar Log",
+      "subtitles.cactus_planks_place": "",
+      "block.blahmod.lightly_charred_scoria": "Lightly Charred Scoria",
+      "block.blahmod.dread_sandstone_wall": "Dread Sandstone Wall",
+      "block.blahmod.cedar_slab": "Cedar Slab",
+      "block.blahmod.reinforced_chest": "Reinforced Chest",
+      "block.blahmod.black_sand": "Black Sand",
+      "block.blahmod.black_sandstone": "Black Sandstone",
+      "biome.blahmod.tropics": "Tropics",
+      "block.blahmod.dread_wood": "Dread Wood",
+      "block.blahmod.scoria": "Scoria",
+      "block.blahmod.cut_dread_sandstone": "Cut Dread Sandstone",
+      "block.blahmod.frost_stairs": "Frost Stairs",
+      "block.blahmod.tropics_slab": "Tropics Slab",
+      "block.blahmod.seashell": "Seashell",
+      "block.blahmod.stripped_dread_log": "Stripped Dread Log",
+      "block.blahmod.core_roots": "Core Roots",
+      "death.attack.freezing": "%1$s became a popsicle",
+      "item.blahmod.tadanite_boots": "§aTadanite Boots",
+      "block.blahmod.frost_trapdoor": "Frost Trapdoor",
+      "block.blahmod.core_vine": "Core Vines",
+      "block.blahmod.dread_sand": "Dread Sand",
+      "block.blahmod.stripped_tropics_log": "Stripped Tropics Log",
+      "block.blahmod.stripped_dread_wood": "Stripped Dread Wood",
+      "block.blahmod.chiseled_black_sandstone": "Chiseled Black Sandstone",
+      "block.blahmod.whitewood_door": "Whitewood Door",
+      "block.blahmod.dread_door": "Dread Door",
+      "item.minecraft.lingering_potion.effect.warmth_potion_item": "Lingering Potion of Warmth",
+      "block.blahmod.tadanite_ore": "Tadanite Ore",
+      "block.blahmod.whitewood_pressure_plate": "Whitewood Pressure Plate",
+      "item.blahmod.ruby": "Ruby",
+      "block.blahmod.dread_pressure_plate": "Dread Pressure Plate",
+      "item.blahmod.frozen_mist_bucket": "Frozen Mist Bucket",
+      "item.blahmod.gilded_obsidian_boots": "Gilded Obsidian Boots",
+      "block.blahmod.frost_wood_log": "Frost Stem",
+      "block.blahmod.cactus_door": "Cactus Door",
+      "block.blahmod.nether_ice": "Nether Ice",
+      "block.blahmod.whitewood_planks": "Whitewood Planks",
+      "block.blahmod.tropics_fence": "Tropics Fence",
+      "item.blahmod.ultimate_gauntlet": "§6Ultimate Gauntlet",
+      "block.blahmod.stripped_whitewood_log": "Stripped Whitewood Log",
+      "block.blahmod.nether_core_grove_air": "Nether Core Glade Air",
+      "item.blahmod.obsidian_fabric": "Obsidian Fabric",
+      "block.blahmod.ruby_block": "Block of Ruby",
+      "block.blahmod.dread_trapdoor": "Dread Trapdoor",
+      "block.blahmod.smooth_black_sandstone_stairs": "Smooth Black Sandstone Stairs",
+      "block.blahmod.stripped_frost_wood": "Stripped Frost Hyphae",
+      "item.blahmod.tadanite_shovel": "§aTadanite Shovel",
+      "subtitles.cactus_planks_step": "",
+      "block.blahmod.soul_snow": "Soul Snow",
+      "block.blahmod.cedar_pressure_plate": "Cedar Pressure Plate",
+      "block.blahmod.dread_rock": "Dread Rock",
+      "biome.blahmod.core_grove": "Core Glade",
+      "block.blahmod.frost_slab": "Frost Slab",
+      "item.blahmod.tadanite_sword": "§aTadanite Sword",
+      "block.blahmod.dread_log": "Dread Log",
+      "effect.blahmod.freezing": "Freezing",
+      "biome.blahmod.nether_core_tundra": "Nether Core Tundra",
+      "block.blahmod.whitewood_wood": "Whitewood Wood",
+      "biome.blahmod.valley_of_the_damned": "Valley of the Damned",
+      "block.blahmod.reinforced_glass": "Reinforced Glass",
+      "fluid.blahmod.molten_ice": "Molten Ice",
+      "block.blahmod.tropics_log": "Tropics Log",
+      "block.blahmod.molten_ice": "Molten Ice",
+      "block.blahmod.cactus_planks": "Cactus Planks",
+      "block.blahmod.chiseled_dread_sandstone": "Chiseled Dread Sandstone",
+      "itemGroup.tabblocks_tab": "Core Ascension Blocks",
+      "block.blahmod.cedar_planks": "Cedar Planks",
+      "item.blahmod.tadanite_leggings": "§aTadanite Leggings",
+      "block.blahmod.tropics_trapdoor": "Tropics Trapdoor",
+      "block.blahmod.whitewood_fence": "Whitewood Fence",
+      "block.blahmod.perma_ice": "Perma Ice",
+      "block.blahmod.smooth_dread_sandstone": "Smooth Dread Sandstone",
+      "block.blahmod.netherfrost": "Netherfrost",
+      "biome.blahmod.cedar_grove": "Cedar Grove",
+      "item.minecraft.potion.effect.warmth_potion_item": "Potion of Warmth",
+      "block.blahmod.coconut": "Coconut",
+      "block.blahmod.cedar_trapdoor": "Cedar Trapdoor",
+      "block.blahmod.stripped_frost_log": "Stripped Frost Stem",
+      "item.blahmod.obsidian_leggings": "Obsidian Leggings",
+      "block.blahmod.borderless_glass": "Borderless Glass",
+      "block.blahmod.dread_button": "Dread Button",
+      "block.blahmod.core_nylium": "Core Nylium",
+      "block.blahmod.whitewood_log": "Whitewood Log",
+      "item.blahmod.tadanite_diamond": "§aTadanite Diamond",
+      "item.minecraft.splash_potion.effect.warmth_potion_item": "Splash Potion of Warmth",
+      "block.blahmod.cedar_fence_gate": "Cedar Fence Gate",
+      "block.blahmod.frost_hyphae": "Frost Hyphae",
+      "block.blahmod.tropics_leaves": "Tropics Leaves",
+      "block.blahmod.dread_stairs": "Dread Stairs"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Gems",
+        "children": [
+          {
+            "name": "GemOreLootTables",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Tools",
+        "children": []
+      },
+      {
+        "name": "Biomes",
+        "children": [
+          {
+            "name": "Tropics",
+            "children": [
+              {
+                "name": "Recipes",
+                "children": []
+              },
+              {
+                "name": "Whitewood",
+                "children": [
+                  {
+                    "name": "Recipes",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Dread",
+            "children": [
+              {
+                "name": "Recipes",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "CedarGrove",
+            "children": [
+              {
+                "name": "Recipes",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "FieryDeathCave",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "DecraftingCA",
+        "children": [
+          {
+            "name": "TropicsDecrafts",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Dimensions",
+        "children": [
+          {
+            "name": "NetherCore",
+            "children": [
+              {
+                "name": "Tadanite",
+                "children": [
+                  {
+                    "name": "Recipes",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Recipes",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "NetherStuff",
+            "children": [
+              {
+                "name": "ObsidianArmors",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PotionEffects",
+        "children": []
+      },
+      {
+        "name": "VanillaEnhancements",
+        "children": [
+          {
+            "name": "Recipes",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Tags",
+        "children": []
+      },
+      {
+        "name": "ReinforcedChest",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "blahmod",
+    "modName": "Core Ascension",
+    "version": "1.0.0",
+    "author": "jabaw, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.blahmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200341417
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "blahmod:block/whitewood_pressure_plate"
+    },
+    "powered=true": {
+      "model": "blahmod:block/whitewood_pressure_plate_down"
+    }
+  }
+}

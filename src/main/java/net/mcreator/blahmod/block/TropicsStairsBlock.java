@@ -17,12 +17,13 @@ import java.util.Collections;
 
 public class TropicsStairsBlock extends StairBlock {
 	public TropicsStairsBlock() {
-		super(() -> Blocks.AIR.defaultBlockState(), BlockBehaviour.Properties.of(Material.WOOD).sound(SoundType.WOOD).strength(2f).dynamicShape());
+		super(() -> Blocks.AIR.defaultBlockState(),
+				BlockBehaviour.Properties.of(Material.WOOD).sound(SoundType.WOOD).strength(2f, 3f).dynamicShape());
 	}
 
 	@Override
 	public float getExplosionResistance() {
-		return 2f;
+		return 3f;
 	}
 
 	@Override

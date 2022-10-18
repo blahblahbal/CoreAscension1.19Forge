@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/frost_log",
+    "up": "blahmod:blocks/frost_log",
+    "north": "blahmod:blocks/frost_log",
+    "east": "blahmod:blocks/frost_log",
+    "south": "blahmod:blocks/frost_log",
+    "west": "blahmod:blocks/frost_log",
+    "particle": "blahmod:blocks/frost_log"
+  },
+  "render_type": "solid"
+}

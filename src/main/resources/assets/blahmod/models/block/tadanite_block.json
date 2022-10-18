@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/tadanite",
+    "up": "blahmod:blocks/tadanite",
+    "north": "blahmod:blocks/tadanite",
+    "east": "blahmod:blocks/tadanite",
+    "south": "blahmod:blocks/tadanite",
+    "west": "blahmod:blocks/tadanite",
+    "particle": "blahmod:blocks/tadanite"
+  },
+  "render_type": "solid"
+}

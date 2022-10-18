@@ -37,7 +37,7 @@
     "name": "Tropics Stairs",
     "specialInfo": [],
     "hardness": 2.0,
-    "resistance": 2.0,
+    "resistance": 3.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {

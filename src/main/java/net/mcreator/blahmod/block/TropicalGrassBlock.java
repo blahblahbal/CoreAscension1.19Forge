@@ -19,10 +19,10 @@ import net.minecraft.client.renderer.BiomeColors;
 
 import net.mcreator.blahmod.procedures.TropicalGrassUpdateTickProcedure;
 import net.mcreator.blahmod.init.BlahmodModBlocks;
-import net.minecraftforge.common.IPlantable;
-import net.minecraft.core.Direction;
 import net.minecraftforge.common.PlantType;
 import net.minecraft.world.level.block.state.properties.BlockStateProperties;
+import net.minecraftforge.common.IPlantable;
+import net.minecraft.core.Direction;
 
 public class TropicalGrassBlock extends Block {
 	public TropicalGrassBlock() {
@@ -32,16 +32,6 @@ public class TropicalGrassBlock extends Block {
 	@Override
 	public int getLightBlock(BlockState state, BlockGetter worldIn, BlockPos pos) {
 		return 15;
-	}
-
-	@Override
-	public void tick(BlockState blockstate, ServerLevel world, BlockPos pos, RandomSource random) {
-		super.tick(blockstate, world, pos, random);
-		int x = pos.getX();
-		int y = pos.getY();
-		int z = pos.getZ();
-
-		TropicalGrassUpdateTickProcedure.execute(world, x, y, z);
 	}
 
 	@Override
@@ -64,6 +54,16 @@ public class TropicalGrassBlock extends Block {
 		{
 			return false;
 		}
+	}
+
+	@Override
+	public void tick(BlockState blockstate, ServerLevel world, BlockPos pos, RandomSource random) {
+		super.tick(blockstate, world, pos, random);
+		int x = pos.getX();
+		int y = pos.getY();
+		int z = pos.getZ();
+
+		TropicalGrassUpdateTickProcedure.execute(world, x, y, z);
 	}
 
 	@OnlyIn(Dist.CLIENT)

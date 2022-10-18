@@ -16,8 +16,8 @@ import java.util.Collections;
 
 public class TropicsTrapdoorBlock extends TrapDoorBlock {
 	public TropicsTrapdoorBlock() {
-		super(BlockBehaviour.Properties.of(Material.WOOD).sound(SoundType.WOOD).strength(2f).noOcclusion().isRedstoneConductor((bs, br, bp) -> false)
-				.dynamicShape());
+		super(BlockBehaviour.Properties.of(Material.WOOD).sound(SoundType.WOOD).strength(2f, 3f).noOcclusion()
+				.isRedstoneConductor((bs, br, bp) -> false).dynamicShape());
 	}
 
 	@Override
